@@ -13,7 +13,7 @@ Initialise git in your target folder.
 
 Next, clone the repository: 
 
-	git clone https://github.com/MariaTheiss/NPCSpringModel.git
+	git clone https://github.com/uhlmanngroup/SimulateNPCs.git
 
 ### Import environment 
 
