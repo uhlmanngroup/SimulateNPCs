@@ -2,7 +2,7 @@
 
 ### Required: 
 
-git, conda, a command-line inter interface 
+git, conda, a command-line interface 
 
 For Windows: 
 https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473
