@@ -1,6 +1,6 @@
 ## Setup 
 
-### Required: 
+### Recommended: 
 
 git, conda, a command-line interface 
 
